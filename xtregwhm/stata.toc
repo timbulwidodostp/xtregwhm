@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p xtregwhm Wallace-Hussain Random-Effects Panel Data: Ridge and Weighted Regression Use xtregwhm With STATA 18
